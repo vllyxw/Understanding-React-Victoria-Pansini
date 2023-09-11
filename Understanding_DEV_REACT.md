@@ -122,3 +122,24 @@ $ git log --oneline -->
 </body>
 </html>
 ~~~
+
+<h4>Títulos</h4>
+
+~~~
+<h1>Título 1</h1>
+<h2>Título 2</h2>
+<h3>Título 3</h3>
+<h4>Título 4</h4>
+<h5>Título 5</h5>
+~~~
+
+<h4>Elementos textuais</h4>
+
+~~~
+<h1>Título 1</h1>
+<p>Parágrafo</p>
+<br> - quebra a linha
+~~~
+
+
+
