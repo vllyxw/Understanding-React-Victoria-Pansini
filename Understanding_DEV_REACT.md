@@ -178,3 +178,20 @@ $ git log --oneline -->
 ~~~
 <a href="https://github.com/vllyxw" target="_blank">Visite meu GitHub</a>
 ~~~
+
+<h4>Imagem</h4>
+
+~~~
+<figure>
+ <img src="img.jpg" alt="Imagem">
+ <figcaption>Descrever o que está na imagem</figcaption>
+</figure>
+~~~
+
+<h4>Vídeo</h4>
+
+~~~
+<video src="video.mp4" autoplay poster="imagemprevia.jpg">
+  Desculpa, o seu navegador não suporta vídeos incorporados, mas você pode e assistir pelo seu reprodutor de mídia favorito!
+</video>
+~~~
