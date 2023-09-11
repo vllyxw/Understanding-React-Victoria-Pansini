@@ -41,3 +41,31 @@ $ git init
 $ git remote add origin https://github.com/username/nome-do-repositorio.git
 ~~~
 
+<h3>Desfazendo Alterações no Repositório Local</h3>
+
+<p>Como alterar a mensagem do último commit:</p>
+~~~
+$ git commit --amend
+~~~
+
+<p>Alterando a mensagem sem abrir o editor:</p>
+~~~
+$ git commit --amend –m"nova mensagem"
+~~~
+
+<p>Como desfazer um commit:</p>
+~~~
+$ git reset
+~~~
+
+~~~
+$ git reset --soft
+~~~
+
+~~~
+$ git reset --mixed
+~~~
+
+~~~
+$ git reset --hard
+~~~
