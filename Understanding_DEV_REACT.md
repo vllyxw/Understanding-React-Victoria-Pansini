@@ -86,3 +86,17 @@ $ git reset --mixed
 ~~~
 $ git reset --hard
 ~~~
+
+<p>Enviar alterações para o repositório remoto:</p>
+
+~~~
+$ git push -u origin main
+$ git push 
+~~~
+
+<p>Verificar alterações:</p>
+
+~~~
+$ git log
+$ git log --oneline -->
+~~~
