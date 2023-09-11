@@ -145,14 +145,36 @@ $ git log --oneline -->
 <h4>Elementos de formatação</h4>
 
 ~~~
-<b>- Texto em negrito
-<strong>- Texto importante
-<i>- Texto em itálico
-<em>- Texto enfatizado
-<mark>- Texto marcado
-<small>- Texto menor
-<del>- Texto excluído
-<ins>- Texto inserido
-<sub>- Texto subscrito
-<sup>- Texto sobrescrito
+<b> - Texto em negrito
+<strong> - Texto importante
+<i> - Texto em itálico
+<em> - Texto enfatizado
+<mark> - Texto marcado
+<small> - Texto menor
+<del> - Texto excluído
+<ins> - Texto inserido
+<sub> - Texto subscrito
+<sup> - Texto sobrescrito
+~~~
+
+<h4>Citações</h4>
+
+~~~
+<address> - Define informações de contato do autor/proprietário de um documento
+<blockquote> - Define uma seção que é citada de outra fonte
+<cite> - Define o título de um trabalho
+<q> - Define uma pequena cotação in-line
+~~~
+
+
+<h4>Comentários</h4>
+
+~~~
+<!-- Seu comentário aqui-->
+~~~
+
+<h4>Links</h4>
+
+~~~
+<a href="https://github.com/vllyxw" target="_blank">Visite meu GitHub</a>
 ~~~
