@@ -13,10 +13,23 @@ $ git config --global user.name "Nome Sobrenome"
 $ git config --global user.email seuemail@email.com
 ~~~
 
+<p>Verificar se o usuário e o e-mail foram cadastrados:</p>
+
+~~~
+$ git config user.name
+$ git config user.email
+~~~
+
 <p>Configurando o nome da Branch Padrão:<p>
 
 ~~~
 $ git config --global init.defaultBranch main
+~~~
+
+<p>Verificar status:</p>
+
+~~~
+$ git status 
 ~~~
 
 <h3>Criando e Clonando Repositórios</h3>
