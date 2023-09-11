@@ -6,6 +6,8 @@
 
 <h3>Começaremos pela configuração</h3>
 
-'$ git config --list'
+~~~
+$ git config --list
+~~~
 
 
