@@ -100,3 +100,25 @@ $ git push
 $ git log
 $ git log --oneline -->
 ~~~
+
+
+
+<h2>HTML</h2>
+<p>O HTML é uma uma linguagem de marcação e é utilizado para estruturar e formatar o conteúdo de páginas web.</p>
+
+
+<h4>Estrutura básica do HTML</h4>
+
+~~~
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Hello World</h1>
+
+</body>
+</html>
+~~~
