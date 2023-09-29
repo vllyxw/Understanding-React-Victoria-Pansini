@@ -13,7 +13,7 @@ $ git config --list
 <p>Configurando seu nome de usuário e e-mail (globalmente):</p>
 
 ~~~
-$ git config --global user.name "Nome Sobrenome"
+$ git config --global user.name "Seu usuário - O MESMO DO GITHUB"
 $ git config --global user.email seuemail@email.com
 ~~~
 
@@ -195,6 +195,7 @@ $ git log --oneline -->
   Desculpa, o seu navegador não suporta vídeos incorporados, mas você pode e assistir pelo seu reprodutor de mídia favorito!
 </video>
 ~~~
+<<<<<<< HEAD
 
 <h4>Elementos de código de computador</h4>
 
@@ -206,3 +207,5 @@ $ git log --oneline -->
 <pre> - Define texto pré-formatado
 ~~~
 
+=======
+>>>>>>> 5c970db04e5a83a13a63270ab0da0a96099efc0e
