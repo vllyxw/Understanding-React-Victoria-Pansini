@@ -13,7 +13,7 @@ $ git config --list
 <p>Configurando seu nome de usuário e e-mail (globalmente):</p>
 
 ~~~
-$ git config --global user.name "Nome Sobrenome"
+$ git config --global user.name "Seu usuário - O MESMO DO GITHUB"
 $ git config --global user.email seuemail@email.com
 ~~~
 
