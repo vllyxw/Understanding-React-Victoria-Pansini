@@ -195,3 +195,14 @@ $ git log --oneline -->
   Desculpa, o seu navegador não suporta vídeos incorporados, mas você pode e assistir pelo seu reprodutor de mídia favorito!
 </video>
 ~~~
+
+<h4>Elementos de código de computador</h4>
+
+~~~ 
+<kbd> - Define a entrada do teclado
+<samp> - Define a saída de amostra de um programa de computador
+<code> - Define um trecho de código de computador
+<var> - Define uma variável em programação ou em uma expressão matemática
+<pre> - Define texto pré-formatado
+~~~
+
